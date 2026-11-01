@@ -4,10 +4,14 @@ target/
 *.iml
 .vscode/
 .DS_Store
+Thumbs.db
+*.log
 ~$*
 *_backup.docx
 *.docx
 *.pptx
 *.pdf
+*.csv
+*.xlsx
 __pycache__/
 *.pyc
